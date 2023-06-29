@@ -1,6 +1,6 @@
 # Jetpack Compose Responsive Template
 
-A template for creating responsive apps using Jetpack Compose, which automatically adapts the application theme based on window size and orientation.
+A template for creating responsive apps using Jetpack Compose, which automatically adapts the application theme based on window size and orientation. Including media size and Typography.
 
 
 ## Features
