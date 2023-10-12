@@ -44,7 +44,7 @@ A template for creating responsive apps using Jetpack Compose, which automatical
 
 ## Usage
 
-To use this responsive app template in your own project, simply clone the repository.
+To use this responsive app template in your own project, simply fork the repository.
 
 
 ## License
