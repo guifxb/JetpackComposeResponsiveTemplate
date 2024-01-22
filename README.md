@@ -44,12 +44,12 @@ A template for creating responsive apps using Jetpack Compose, which automatical
 
 ## Usage
 
-To use this responsive app template in your own project, simply fork the repository.
+To use this responsive app template in your own project, simply clone the repository.
 
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
+You are free to use, modify, and distribute the code.
 
 
 ## Contact
